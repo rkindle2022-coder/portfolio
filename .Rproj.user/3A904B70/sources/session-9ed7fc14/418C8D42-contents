@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Robert Kindle | Business Analytics Student</title>
+<style>
+:root { --ink: #1f1a17; --paper: #fdfbf7; --accent: #c3142d; --tan: #e8e0d2; --muted: #6b6156; }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--paper); color: var(--ink);
+  font: 17px/1.6 -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+main { max-width: 46rem; margin: 0 auto; padding: 2.5rem 1.25rem 4rem; }
+header { border-bottom: 3px solid var(--accent); padding-bottom: 1.5rem; }
+h1 { font-size: 2.2rem; margin: 0; line-height: 1.2; }
+.lede { font-size: 1.25rem; color: var(--muted); margin: 0.25rem 0 0; }
+h2 { font-size: 1.35rem; margin: 2.2rem 0 0.6rem; border-bottom: 1px solid var(--tan); padding-bottom: 0.3rem; }
+h3 { margin: 1.25rem 0 0.25rem; font-size: 1.1rem; }
+.hero { display: flex; gap: 1.5rem; align-items: center; flex-wrap: wrap; }
+.hero img { width: 9rem; height: 9rem; border-radius: 50%; object-fit: cover; border: 3px solid var(--accent); }
+.figure { margin: 1rem 0; } .figure img { max-width: 100%; height: auto; border: 1px solid var(--tan); }
+.meta { color: var(--muted); font-size: 0.95rem; }
+.chips { display: flex; flex-wrap: wrap; gap: 0.4rem; padding: 0; list-style: none; }
+.chips li { background: var(--tan); border-radius: 999px; padding: 0.15rem 0.7rem; font-size: 0.9rem; }
+</style>
+</head>
+<body>
+<main>
+<header class="hero">
+<img src="assets/photo.jpg" alt="Photo of Robert Kindle">
+<div>
+<h1>Robert Kindle | Business Analytics Student</h1>
+<p class="lede">Business analytics student building practical skills in data, business, and web work. I would love to continue working in the business analytics environment as a full-time hire for Kearney Co, and I plan to finish my senior internship next summer to continue networking and potentially receive a full-time hire offer.</p>
+<p class="meta"><a href="mailto:kindlerd@miamioh.edu">kindlerd@miamioh.edu</a> &middot; <a href="https://github.com/rkindle2022-coder">GitHub</a> &middot; <a href="https://www.linkedin.com/in/robert-kindle-284092327/">LinkedIn</a></p>
+</div>
+</header>
+<section>
+<h2>About</h2>
+<p>I am a Miami University student studying Business Analytics, Entrepreneurship, and Accounting. I am building experience with data tools, business operations, web development, and presenting ideas clearly. I am especially interested in applying analytics and technology to real business questions.</p>
+</section>
+<section>
+<h2>Skills</h2>
+<h3>Data and Analytics</h3>
+<ul class="chips">
+<li>Data analytics</li>
+<li>Statistics</li>
+<li>Applied regression analysis</li>
+<li>Business intelligence</li>
+<li>Data visualization</li>
+</ul>
+<h3>Tools</h3>
+<ul class="chips">
+<li>Power BI</li>
+<li>Databricks</li>
+<li>Python</li>
+<li>SQL</li>
+<li>Microsoft Excel</li>
+<li>Microsoft Access</li>
+</ul>
+<h3>Business</h3>
+<ul class="chips">
+<li>Entrepreneurship</li>
+<li>Finance</li>
+<li>Accounting</li>
+<li>Sales</li>
+<li>Business operations</li>
+</ul>
+<h3>Working Style</h3>
+<ul class="chips">
+<li>Leadership</li>
+<li>Teamwork</li>
+<li>Creative problem solving</li>
+<li>Time management</li>
+<li>Customer service</li>
+</ul>
+</section>
+<section>
+<h2>Projects</h2>
+<article>
+<h3>Hackett &amp; Hackett International Group Website</h3>
+<p>I combined the business&#39;s two original websites into one modern, more accessible platform during my internship with Hackett &amp; Hackett International Group Ltd. The project shows my experience using web design to support a business&#39;s customer-facing presence and make its online information easier to access.</p>
+<ul class="chips">
+<li>Web design</li>
+<li>Web development</li>
+<li>Entrepreneurship</li>
+<li>Business communication</li>
+</ul>
+<p class="meta">
+<a href="https://www.hackettandhackettinternationalgrouplimited.com/" rel="noopener">Project link</a>
+</p>
+</article>
+<article>
+<h3>ISA 345 Coding Project</h3>
+<p>This project documents coding work completed for ISA 345. It reflects my coursework in database systems and data warehousing and provides a written project report for the work.</p>
+<ul class="chips">
+<li>Database systems</li>
+<li>Data warehousing</li>
+<li>Business programming</li>
+</ul>
+<p class="meta">
+<a href="https://github.com/rkindle2022-coder/portfolio/tree/main/projects/project-2" rel="noopener">Files</a> · <a href="https://docs.google.com/document/d/1VAdeuo1Q0Css9ZKpDFmMLSU-D3mOdW0ioe7hBRvqOSs/edit?tab=t.0" rel="noopener">Project link</a>
+</p>
+</article>
+</section>
+<section>
+<h2>Coursework</h2>
+<ul>
+<li>
+<strong>ISA 345 - Database Systems and Data Warehousing</strong>: This course supports my work with database systems and data warehousing.</li>
+<li>
+<strong>ISA 401 - Business Intelligence and Data Visualization</strong>: This course strengthens my ability to communicate data through business intelligence and visualization.</li>
+<li>
+<strong>ISA 381 - Concepts in Business Programming</strong>: This course supports my programming foundation for business-focused data work.</li>
+<li>
+<strong>ISA 391 - Applied Regression Analysis in Business</strong>: This course builds my understanding of regression analysis and statistics in business settings.</li>
+<li>
+<strong>ISA 225 - Principles of Business Analytics</strong>: This course provides a foundation for using analytics to answer business questions.</li>
+<li>
+<strong>ISA 235 - Information Technology and the Intelligent Enterprise</strong>: This course connects information technology with how organizations use intelligent systems.</li>
+</ul>
+</section>
+<section>
+<h2>Experience</h2>
+<article>
+<h3>Data Analyst, Kearney &amp; Co.</h3>
+<p class="meta">May - July 2026</p>
+<ul>
+<li>Worked with the Kearney Technology Group remotely and on-site alongside full-time hires and engagement teams.</li>
+<li>Used Power BI, Databricks, Python, SQL, and visualization tools to communicate raw data to clients.</li>
+<li>Attended networking events and connected with full-time hires and active engagements to learn about consulting work.</li>
+</ul>
+</article>
+<article>
+<h3>Entrepreneurship &amp; Web Development Intern, Hackett &amp; Hackett International Group Ltd.</h3>
+<p class="meta">May 2025 - July 2025</p>
+<ul>
+<li>Worked with potential business partners using entrepreneurship skills.</li>
+<li>Created slideshows for investor pitches.</li>
+<li>Combined two original business websites into one modern and more accessible platform.</li>
+</ul>
+</article>
+<article>
+<h3>Retail Worker / Assistant Manager, Knickerbocker Pools and Spas</h3>
+<p class="meta">May 2023 - August 2024</p>
+<ul>
+<li>Supported customers, stocked products, and handled company orders for the store.</li>
+<li>Was promoted to assistant manager in the second season.</li>
+<li>Learned opening and closing procedures, paperwork, deposits, store summaries, timecards, and supply processes.</li>
+</ul>
+</article>
+<article>
+<h3>Youth Mentor / Porter, Beaver Vu Bowling</h3>
+<p class="meta">September 2021 - April 2023</p>
+<ul>
+<li>Managed participants and bowling lanes while supporting youth programming.</li>
+<li>Planned food delivery, lane cleaning, and bowling instruction for children.</li>
+<li>Helped count registration and weekly program fees and manage outstanding payments for the After School Bowling Program.</li>
+</ul>
+</article>
+</section>
+<section>
+<h2>Education</h2>
+<p>
+<strong>Miami University, Oxford, Ohio</strong>, Studying Business Analytics, Entrepreneurship, and Accounting; expected Master’s in Business Analytics <span class="meta">Expected May 2028</span>
+</p>
+</section>
+</main>
+</body>
+</html>
